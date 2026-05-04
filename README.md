@@ -1,55 +1,32 @@
-# LenceCart AI Commerce OS
+#  Order API Assignment
 
-This project is a front-end prototype for an AI-powered ecommerce experience platform.
+- Project title: `Order API Assignment`
+- Brief description: ASP.NET Core Web API using layered architecture and EF Core Code First.
+- Architecture:
+  - `Order.ApplicationCore`: entities, models, repository/service interfaces
+  - `Order.Infrastructure`: EF DbContext, repositories, services, migrations
+  - `Order.API`: controllers, Swagger, dependency injection
+- ER diagram summary:
+  - `Order` has many `Order_Details`
+  - `Order_Details.Order_Id` is the foreign key to `Order.Id`
+- Required endpoints:
+  - `GET /api/order`
+  - `POST /api/order`
+  - `GET /api/order/customer/{customerId}`
+  - `PUT /api/order/{id}`
+  - `DELETE /api/order/{id}`
+- Database setup:
+  - Mention SQL Server connection string in `Order.API/appsettings.json`
+  - Command: `dotnet ef database update --project Order.Infrastructure/Order.Infrastructure.csproj --startup-project Order.API/Order.API.csproj`
+- Run instructions:
+  - `dotnet build OrderAssignment.slnx`
+  - `dotnet run --project Order.API/Order.API.csproj --urls http://localhost:5100`
+  - Swagger URL: `http://localhost:5100/swagger/Index.html`
+- Submission note:
+  - Include placeholder text: `https://github.com/farman-ai/Assignment_RestAPI`
 
-It demonstrates:
+## Test Plan
+- Run `dotnet build OrderAssignment.slnx` to ensure the assignment still builds.
+- Open Swagger and confirm the required endpoints are visible.
 
-- Real-time clothing try-on style presentation
-- AI shopping guidance for different customer personas
-- Offline-first commerce flows for low-network environments
-- 3D-ready product storytelling for fashion and lifestyle brands
-- Smart cart and sync messaging for omnichannel commerce
 
-## Files
-
-- `index.html` contains the product landing page and interactive demo layout
-- `styles.css` contains the visual system, responsive layout, and product scene animations
-- `app.js` powers the live demo state, product switching, persona logic, and sync simulation
-
-## Run
-
-Run:
-
-```bash
-node server.js
-```
-
-Then open `http://localhost:8000`.
-
-## Notes
-
-This now includes:
-
-- manual photo dressing studio
-- camera overlay preview
-- a real AI try-on proxy for Replicate IDM-VTON
-
-For AI generation you need a Replicate API token. The app sends:
-
-- person photo
-- garment photo
-- garment category
-- garment description
-
-to the IDM-VTON model through the local `/api/tryon` proxy.
-
-The current model path uses Replicate IDM-VTON and is intended for non-commercial use only according to the model license.
-
-The next step would be improving automatic placement and garment/background cleanup.
-
-- a product catalog API
-- shopper profile and recommendation services
-- 3D model delivery
-- camera-based AR try-on
-- offline storage and sync infrastructure
-# Assignment_RestAPI

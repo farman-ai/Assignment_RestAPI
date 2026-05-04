@@ -20,3 +20,4 @@
 /Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/refint/Order.ApplicationCore.dll
 /Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.pdb
 /Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/ref/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.sourcelink.json

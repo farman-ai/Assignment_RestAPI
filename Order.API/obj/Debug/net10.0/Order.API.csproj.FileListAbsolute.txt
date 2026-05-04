@@ -328,3 +328,4 @@
 /Users/mac/Desktop/RESTAPI/Order.API/obj/Debug/net10.0/Order.API.pdb
 /Users/mac/Desktop/RESTAPI/Order.API/obj/Debug/net10.0/Order.API.genruntimeconfig.cache
 /Users/mac/Desktop/RESTAPI/Order.API/obj/Debug/net10.0/ref/Order.API.dll
+/Users/mac/Desktop/RESTAPI/Order.API/obj/Debug/net10.0/Order.API.sourcelink.json
