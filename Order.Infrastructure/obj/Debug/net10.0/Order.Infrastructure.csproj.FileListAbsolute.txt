@@ -1,0 +1,34 @@
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.csproj.AssemblyReference.cache
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.AssemblyInfoInputs.cache
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.AssemblyInfo.cs
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.deps.json
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.runtimeconfig.json
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.dll
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.pdb
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Documents/New project/Order.Infrastructure/bin/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.In.AA82CA84.Up2Date
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.dll
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/refint/Order.Infrastructure.dll
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.pdb
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.genruntimeconfig.cache
+/Users/mac/Documents/New project/Order.Infrastructure/obj/Debug/net10.0/ref/Order.Infrastructure.dll
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.deps.json
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.runtimeconfig.json
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.dll
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.Infrastructure.pdb
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/bin/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.csproj.AssemblyReference.cache
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.AssemblyInfoInputs.cache
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.AssemblyInfo.cs
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.In.AA82CA84.Up2Date
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.dll
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/refint/Order.Infrastructure.dll
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.pdb
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/Order.Infrastructure.genruntimeconfig.cache
+/Users/mac/Desktop/RESTAPI/Order.Infrastructure/obj/Debug/net10.0/ref/Order.Infrastructure.dll

@@ -1,0 +1,22 @@
+/Users/mac/Documents/New project/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.deps.json
+/Users/mac/Documents/New project/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Documents/New project/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.AssemblyInfoInputs.cache
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.AssemblyInfo.cs
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/refint/Order.ApplicationCore.dll
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Documents/New project/Order.ApplicationCore/obj/Debug/net10.0/ref/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.deps.json
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/bin/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.AssemblyInfoInputs.cache
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.AssemblyInfo.cs
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/refint/Order.ApplicationCore.dll
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/Order.ApplicationCore.pdb
+/Users/mac/Desktop/RESTAPI/Order.ApplicationCore/obj/Debug/net10.0/ref/Order.ApplicationCore.dll
